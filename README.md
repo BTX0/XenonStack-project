@@ -1,4 +1,4 @@
-# XenonStack-projet
+# XenonStack-project
 This is for Xenon technical project submission 
 In this prject i used html 5 bootstrap 4,5 css, java script to make pages responsive
 
